@@ -2,8 +2,8 @@
 # -*- coding: UTF-8 -*-
 
 class FileRead
-	def initialize()
-		@filePath = __FILE__
+	def initialize(filePath)
+		@filePath = filePath
 	end
 
 	def read
@@ -11,21 +11,22 @@ class FileRead
 		contents = file.read
 		file.close
 		return contents
+	end   
+  
+	def filter(str)
+		filt_numbersign_str = str.gsub(/\s*[#].*[\n]/,"") 
+		filt_equalsign_str = filt_numbersign_str.gsub(/^[=]begin\s((.+)\s)*[=]end$/,"")
+		return filt_equalsign_str
 	end
     
     # 过滤掉注释再打印出来
-	def filter(str)
-		new_str = str.gsub(/[\s][#].*[\n]/,"") 
-		return new_str
-	end
-
-	# 不过滤就打印出来
 	def filtprint
 		str = read
 		new_str = filter(str)
 		puts new_str		
 	end
-
+	
+	# 不过滤就打印出来
 	def nofiltprint
 		puts read
 	end

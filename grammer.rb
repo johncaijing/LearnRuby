@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 require './fileRead'
 
-fileRead = FileRead.new()
+fileRead = FileRead.new(__FILE__)
 if ARGV.length == 0
 elsif ARGV[0] == 'true'|| ARGV[0]=='TRUE'||ARGV[0]=='True'
 	fileRead.filtprint
