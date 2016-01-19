@@ -32,7 +32,7 @@ class Person
 		@name=name #实例变量
 	end
 	def print_name #成员方法
-		puts @name
+		puts "name:#@name"
 	end
 end
 
