@@ -9,7 +9,7 @@
 或者false则只输出结果不打印源代码和注释）
 
 ##学习进度
-* [Ruby 语法](http://www.runoob.com/ruby/ruby-syntax.html)->[grammer.rb](https://github.com/JohnTsaiAndroid/LearnRuby/blob/master/grammer.rb)
-* [Ruby 数据类型](http://www.runoob.com/ruby/ruby-datatypes.html)->[datatype.rb](https://github.com/JohnTsaiAndroid/LearnRuby/blob/master/datatype.rb)
-* [Ruby 类和对象](http://www.runoob.com/ruby/ruby-class.html)->[classAndObject.rb](https://github.com/JohnTsaiAndroid/LearnRuby/classAndObject.rb)
+* [Ruby 语法](http://www.runoob.com/ruby/ruby-syntax.html)->[grammer.rb](https://github.com/JohnTsaiAndroid/LearnRuby/blob/master/Ruby基础教程/grammer.rb)
+* [Ruby 数据类型](http://www.runoob.com/ruby/ruby-datatypes.html)->[datatype.rb](https://github.com/JohnTsaiAndroid/LearnRuby/blob/master/Ruby基础教程/datatype.rb)
+* [Ruby 类和对象](http://www.runoob.com/ruby/ruby-class.html)->[classAndObject.rb](https://github.com/JohnTsaiAndroid/LearnRuby/blob/master/Ruby基础教程/classAndObject.rb)
 
