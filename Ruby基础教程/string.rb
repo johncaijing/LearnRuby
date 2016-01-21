@@ -45,4 +45,3 @@ puts "#{str2.upcase}"
 
 #字符串unpack指令
 puts "whole".unpack('xax2aX2aX1aX2a') 
-puts "".unpack('X1a')
