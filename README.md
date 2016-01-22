@@ -17,7 +17,27 @@
 或者false则只输出结果不打印源代码和注释）
 
 ##学习进度
-* [Ruby 语法](http://www.runoob.com/ruby/ruby-syntax.html)->[grammer.rb](https://github.com/JohnTsaiAndroid/LearnRuby/blob/master/Ruby基础教程/grammer.rb)
-* [Ruby 数据类型](http://www.runoob.com/ruby/ruby-datatypes.html)->[datatype.rb](https://github.com/JohnTsaiAndroid/LearnRuby/blob/master/Ruby基础教程/datatype.rb)
-* [Ruby 类和对象](http://www.runoob.com/ruby/ruby-class.html)->[classAndObject.rb](https://github.com/JohnTsaiAndroid/LearnRuby/blob/master/Ruby基础教程/classAndObject.rb)
+* [array.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/array.rb)
+* [block.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/block.rb)
+* [classAndObject.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/classAndObject.rb)
+* [datatype.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/datatype.rb)
+* [dateAndTime.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/dateAndTime.rb)
+* [decision.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/decision.rb)
+* [dir.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/dir.rb)
+* [exceptions.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/exceptions.rb)
+* [filemethod.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/filemethod.rb)
+* [fileRead.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/fileRead.rb)
+* [grammer.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/grammer.rb)
+* [hash.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/hash.rb)
+* [io.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/io.rb)
+* [iterate.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/iterate.rb)
+* [loop.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/loop.rb)
+* [method.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/method.rb)
+* [module.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/module.rb)
+* [moduletest.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/moduletest.rb)
+* [moduleweek.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/moduleweek.rb)
+* [range.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/range.rb)
+* [string.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/string.rb)
+* [variable.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/variable.rb)
+
 
