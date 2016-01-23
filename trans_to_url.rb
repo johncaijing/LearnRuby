@@ -12,7 +12,7 @@ if File::directory?("./RubyBasic")
   	dir.each do |f|
   		if(f=~/^[.]/)
   		else
-  	       str+=("*[]()->[#{f}](#{$URL_PREFIX}#{f})\n")
+  	       str+=("[#{f}](#{$URL_PREFIX}#{f})\n")
   	   end
     end
     puts str

@@ -17,27 +17,43 @@
 或者false则只输出结果不打印源代码和注释）
 
 ##学习进度
-* [array.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/array.rb)
-* [block.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/block.rb)
-* [classAndObject.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/classAndObject.rb)
-* [datatype.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/datatype.rb)
-* [dateAndTime.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/dateAndTime.rb)
-* [decision.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/decision.rb)
-* [dir.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/dir.rb)
-* [exceptions.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/exceptions.rb)
-* [filemethod.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/filemethod.rb)
-* [fileRead.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/fileRead.rb)
-* [grammer.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/grammer.rb)
-* [hash.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/hash.rb)
-* [io.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/io.rb)
-* [iterate.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/iterate.rb)
-* [loop.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/loop.rb)
-* [method.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/method.rb)
-* [module.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/module.rb)
-* [moduletest.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/moduletest.rb)
-* [moduleweek.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/moduleweek.rb)
-* [range.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/range.rb)
-* [string.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/string.rb)
-* [variable.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/variable.rb)
+* [Ruby 数组（Array）](http://www.runoob.com/ruby/ruby-array.html)->[array.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/array.rb)
+
+* [Ruby 块](http://www.runoob.com/ruby/ruby-block.html)->[block.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/block.rb)
+
+* [Ruby 类和对象](http://www.runoob.com/ruby/ruby-class.html)->[classAndObject.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/classAndObject.rb)
+
+*[Ruby数据类型](http://www.runoob.com/ruby/ruby-datatypes.html)->[datatype.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/datatype.rb)
+
+* [Ruby 日期 &amp; 时间（Date &amp; Time）](http://www.runoob.com/ruby/ruby-date-time.html)->[dateAndTime.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/dateAndTime.rb)
+
+* [Ruby 条件判断](http://www.runoob.com/ruby/ruby-decision.html)->[decision.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/decision.rb)
+
+* [Ruby Dir 类和方法](http://www.runoob.com/ruby/ruby-dir-methods.html)->[dir.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/dir.rb)
+
+* [Ruby 异常](http://www.runoob.com/ruby/ruby-exceptions.html)->[exceptions.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/exceptions.rb)
+
+* [Ruby File 类和方法](http://www.runoob.com/ruby/ruby-file-methods.html)->[filemethod.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/filemethod.rb)
+<!--[fileRead.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/fileRead.rb)-->
+
+* [Ruby 语法](http://www.runoob.com/ruby/ruby-syntax.html)->[grammer.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/grammer.rb)
+
+* [Ruby 哈希（Hash）](http://www.runoob.com/ruby/ruby-hash.html)->[hash.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/hash.rb)
+
+* [Ruby 文件的输入与输出](http://www.runoob.com/ruby/ruby-input-output.html)->[io.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/io.rb)
+
+* [Ruby 迭代器](http://www.runoob.com/ruby/ruby-iterators.html)->[iterate.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/iterate.rb)
+
+* [Ruby 循环](http://www.runoob.com/ruby/ruby-loop.html)->[loop.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/loop.rb)
+
+* [Ruby 方法](http://www.runoob.com/ruby/ruby-method.html)->[method.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/method.rb)
+
+* [Ruby 模块（Module）](http://www.runoob.com/ruby/ruby-module.html)->[module.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/module.rb)
+
+* [Ruby 范围（Range）](http://www.runoob.com/ruby/ruby-range.html)->[range.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/range.rb)
+
+* [Ruby 字符串（String）](http://www.runoob.com/ruby/ruby-string.html)->[string.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/string.rb)
+
+* [Ruby 变量](http://www.runoob.com/ruby/ruby-variable.html)->[variable.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/variable.rb)
 
 
