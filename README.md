@@ -23,7 +23,7 @@
 
 * [Ruby 类和对象](http://www.runoob.com/ruby/ruby-class.html)->[classAndObject.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/classAndObject.rb)
 
-*[Ruby数据类型](http://www.runoob.com/ruby/ruby-datatypes.html)->[datatype.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/datatype.rb)
+* [Ruby数据类型](http://www.runoob.com/ruby/ruby-datatypes.html)->[datatype.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/datatype.rb)
 
 * [Ruby 日期 &amp; 时间（Date &amp; Time）](http://www.runoob.com/ruby/ruby-date-time.html)->[dateAndTime.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/dateAndTime.rb)
 

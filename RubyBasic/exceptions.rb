@@ -32,3 +32,5 @@ begin
 	rescue
 		puts STDIN
 	end
+#使用retry语句
+# rescue捕获异常
