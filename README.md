@@ -10,6 +10,10 @@
 * [Ruby官网教程](http://ruby-doc.org/docs/Tutorial/)
 * [Learn Ruby the hard way](http://learnrubythehardway.org/book/)。
 
+**书籍:**
+
+* [Ruby元编程](http://book.douban.com/subject/7056800/)
+
 ##如何使用
 * 1.将代码clone下来
 * 2.cd至LearnRuby相应目录下
