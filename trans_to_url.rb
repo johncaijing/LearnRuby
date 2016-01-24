@@ -18,7 +18,7 @@ dir_array.each do |d|
   dir = Dir::entries(d.to_s)
   puts dir
   dir.each do |f|
-    if(f.to_s !~ /^[.]/)
+    if(f.to_s !~ /^[.]/&&f.to_s=~/[.rb]$/)
        write_str+=("[#{f}](#{$URL_PREFIX}#{d}/#{f})\n")
     end
   end
