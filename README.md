@@ -8,6 +8,7 @@
 * [Ruby教程(英文版)](http://www.tutorialspoint.com/ruby/index.htm)
 * [Ruby官网](https://www.ruby-lang.org/zh_cn/documentation/),
 * [Ruby官网教程](http://ruby-doc.org/docs/Tutorial/)
+* [Ruby学习资源列表](https://ruby-china.org/topics/7284)
 * [Learn Ruby the hard way](http://learnrubythehardway.org/book/)。
 
 **书籍:**
@@ -60,4 +61,9 @@
 
 * [Ruby 变量](http://www.runoob.com/ruby/ruby-variable.html)->[variable.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyBasic/variable.rb)
 
+##Ruby On Rails
+**学习资料**
 
+* [《Ruby on Rails 教程》](http://railstutorial-china.org/book/)
+* [Ruby on Rails 指南](http://guides.ruby-china.org/)
+* [ROR官网](http://rubyonrails.org/)
