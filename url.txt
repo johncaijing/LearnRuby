@@ -1,4 +1,8 @@
+[chapter1.md](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/MetaprogrammingRubyNotes/chapter1.md)
+[chapter2.md](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/MetaprogrammingRubyNotes/chapter2.md)
+[classfact.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/MetaprogrammingRubyNotes/classfact.rb)
 [greeting.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/MetaprogrammingRubyNotes/greeting.rb)
+[openclass.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/MetaprogrammingRubyNotes/openclass.rb)
 [db_access.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyAdvance/db_access.rb)
 [ruby-object-oriented.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyAdvance/ruby-object-oriented.rb)
 [ruby_json.rb](https://github.com/JohnTsaiAndroid/LearnRuby/tree/master/RubyAdvance/ruby_json.rb)
