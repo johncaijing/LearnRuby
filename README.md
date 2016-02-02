@@ -15,6 +15,10 @@
 
 * [Ruby元编程](http://book.douban.com/subject/7056800/)
 
+**MySQL**
+
+* [MySQL教程](http://www.runoob.com/mysql/mysql-tutorial.html)
+
 ##如何使用
 * 1.将代码clone下来
 * 2.cd至LearnRuby相应目录下
