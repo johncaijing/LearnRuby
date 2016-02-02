@@ -39,3 +39,30 @@ puts obj.methods
 
 >一个对象的实例变量存在于对象本身之中，而一个对象的方法存在于对象自身的类中。
 
+###类的真相
+**类本身也是对象**
+
+```
+puts "HELLO".class
+puts String.class
+
+puts Class.instance_methods(false)
+```
+在Ruby中，可以像操作其他任何对象一样对类进行操作。可在运行时，修改类的相关信息。
+
+```
+puts Array.superclass
+puts Object.superclass
+puts BasicObject.superclass
+puts Class.superclass
+puts Class.superclass.superclass
+```
+
+####模块
+Class类的超类是Module（模块）=====》每个类都是一个模块
+
+类就是带有三个方法(new,allocate,superclass)的增强模块
+
+代码被包含到别的代码中----->使用模块
+某段代码被实例化或被继承----->使用类
+
