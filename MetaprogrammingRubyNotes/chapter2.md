@@ -66,3 +66,50 @@ Class类的超类是Module（模块）=====》每个类都是一个模块
 代码被包含到别的代码中----->使用模块
 某段代码被实例化或被继承----->使用类
 
+类可通过引用访问
+
+```
+class Foo
+end
+foo = Foo.new
+myFoo = Foo
+foo2= myFoo.new
+```
+myFoo是变量，Foo是常量 类是对象，类名是常量
+
+####常量
+任何以大写字母开头的引用都是常量（包括类名和模块名）
+
+常量的值可以修改，常量和变量的作用域不同
+
+```
+MyConstant = "root level"
+module MyModule
+	MyConstant = "outer"
+	class MyFoo
+		MyConstant = "inner"
+	end
+end
+#这里的常量像文件系统一样组织成树形结构
+```
+
+####常量的路径
+通过路径标识，用双冒号进行分隔
+
+```
+puts MyModule::MyConstant
+puts MyModule::MyFoo::MyConstant
+puts ::MyConstant
+```
+绝对路径--->双冒号开头
+
+Module类有一个实例方法和类方法，方法名都是constants
+
+```
+puts Module.constants#返回当前程序中所有顶层的常量 包括类名
+puts MyModule.constants#返回当前范围内的所有常量
+```
+
+获取当前代码所在的路径，使用Module.nesting方法。
+
+防止类名冲突，使用模块充当常量容器的模块----->命名空间

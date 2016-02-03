@@ -24,3 +24,33 @@ puts Object.superclass
 puts BasicObject.superclass.class.name
 puts Class.superclass
 puts Class.superclass.superclass
+
+class Foo
+    def initialize
+    	puts "initialize"
+    end
+end
+foo = Foo.new
+myFoo = Foo
+foo2= myFoo.new
+
+MyConstant = "root level"
+module MyModule
+	MyConstant = "outer"
+	class MyFoo
+		MyConstant = "inner"
+		module InnerModule
+			puts Module.nesting
+		end
+	end
+end
+
+puts MyModule::MyConstant
+puts MyModule::MyFoo::MyConstant
+puts ::MyConstant
+
+# puts 'Module:'
+# puts Module.constants
+# puts 'Instance:'
+# puts MyModule.constants
+puts Module.nesting
