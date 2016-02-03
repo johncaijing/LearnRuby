@@ -54,3 +54,11 @@ puts ::MyConstant
 # puts 'Instance:'
 # puts MyModule.constants
 puts Module.nesting
+
+
+puts "----------"
+puts Object.class
+puts Module.class.superclass
+puts Module.superclass
+puts Module.class
+puts Class.class
