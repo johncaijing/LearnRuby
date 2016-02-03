@@ -15,6 +15,11 @@
 
 * [Ruby元编程](http://book.douban.com/subject/7056800/)
 
+**社区**
+
+* [Ruby China](https://ruby-china.org/)
+
+
 **MySQL**
 
 * [MySQL教程](http://www.runoob.com/mysql/mysql-tutorial.html)
@@ -71,3 +76,4 @@
 * [《Ruby on Rails 教程》](http://railstutorial-china.org/book/)
 * [Ruby on Rails 指南](http://guides.ruby-china.org/)
 * [ROR官网](http://rubyonrails.org/)
+* [如何从零开始学会 Rails](https://ruby-china.org/wiki/start_leaning_rails)
