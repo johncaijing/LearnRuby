@@ -123,3 +123,34 @@ puts MyModule.constants#返回当前范围内的所有常量
 
 * 方法查找
 * 执行方法（Ruby需用到self）
+
+#####方法查找
+接收者：调用方法所在的对象
+
+祖先链：从一个类找到它的超类，再找到超类的超类直到找到BasicObject类（Ruby类体系的根节点）
+
+__方法查找的过程:__
+
+Ruby首先在接收者的类中查找，然后再顺着祖先链向上查找，直到找到。
+
+示例见lookup.rb
+
+获取类的祖先链：```MySubClass.ancestors```
+
+######模块与方法查找
+祖先链中也包括模块
+
+把一个模块被包含在一个类中（或模块中） include/prepend
+
+####Kernel模块
+Ruby中有一些方法可以随时随地地进行调用，如```print```
+
+实际上是调用了Kernel模块的私有实例方法,而Object类包含了Kernel模块，Kernel就进入了每个对象的祖先链。
+
+```ruby
+Kernel.private_instance_methods.grep(/^pr/)
+#printf,print,proc
+```
+
+Kernel模块的方法对所有的对象都可用，叫做内核方法。
+
