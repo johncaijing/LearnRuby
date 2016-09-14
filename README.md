@@ -77,3 +77,10 @@
 * [Ruby on Rails 指南](http://guides.ruby-china.org/)
 * [ROR官网](http://rubyonrails.org/)
 * [如何从零开始学会 Rails](https://ruby-china.org/wiki/start_leaning_rails)
+
+## Ruby Tips
+
+* 1.Ruby版本管理[RVM](https://rvm.io/)
+* 2.Ruby安装工具[Ruby-Install](https://github.com/postmodern/ruby-install)
+* 3.Ruby和Rails安装教程[https://ruby-china.org/wiki/install_ruby_guide](https://ruby-china.org/wiki/install_ruby_guide)
+
